@@ -1,7 +1,7 @@
 # Hello, I'm Olaleye Mojeed Ayobami
 <a href="https://linkedin.com/in/olaleye-mojeed-ayobami-b01b1118b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a certified Microsoft Security Operations Analyst (SC 200), as well as CompTIA Security+, Cisco CCNA, and Azure certified. With four (4) years of experience in the cybersecurity department of the Nigerian Secret Service, I am currently pursuing a cybersecurity program at the Canadian College of Business and Technology in Vancouver, British Columbia, Canada. My GitHub repository showcases my projects in network security, cloud infrastructure, and more. Explore my journey into cybersecurity, and let's connect!
+I am a certified Microsoft Security Operations Analyst (SC 200), as well as CompTIA Security+, Cisco CCNA, and Azure certified. With four (4) years of experience in the Nigerian Secret Service, I am currently pursuing a cybersecurity program at the Canadian College of Business and Technology in Vancouver, British Columbia, Canada. My GitHub repository showcases my projects in network security, cloud infrastructure, and more. Explore my journey into cybersecurity, and let's connect!
 
 
 
