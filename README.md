@@ -9,7 +9,7 @@ I am a certified Microsoft Security Operations Analyst (SC 200), as well as Comp
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. While I'm particularly interested in roles within Security Operations Centers, such as Tier 1 Analyst positions, I'm open to exploring other cybersecurity roles that align with my interests and expertise.
+My journey in security has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. While I'm particularly interested in roles within Security Operations Centers, such as Tier 1 Analyst positions, I'm open to exploring other cybersecurity roles that align with my interests and expertise.
 
 ## Skills
 
