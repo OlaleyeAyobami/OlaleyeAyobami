@@ -16,7 +16,7 @@ My journey in security has led me to develop a passion for cybersecurity, and I 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Malware Analysis       | <a href="https://github.com/OlaleyeAyobami/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>|
-| Network Traffic Monitoring and Attack Detection | Detection Lab</a>|
+| Cyber Infrastructure Management using Honey Pot | <a href="https://github.com/OlaleyeAyobami/Malware-Analysis-Lab/tree/main">Honey Pot Lab</a>||
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
