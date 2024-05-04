@@ -15,7 +15,7 @@ My journey in security has led me to develop a passion for cybersecurity, and I 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory  | <a href="https://github.com/OlaleyeAyobami/Malware-Analysis-Lab/tree/main">Active Directory Lab</a>|
+| Active Directory  | <a href="https://github.com/OlaleyeAyobami/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
 | Malware Analysis | <a href="https://github.com/OlaleyeAyobami/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>|
 | Honeypot Deployment & Analysis | <a href="https://github.com/OlaleyeAyobami/Honey-Pot-Lab">Honey Pot Lab</a> |
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
