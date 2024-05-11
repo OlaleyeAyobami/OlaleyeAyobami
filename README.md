@@ -70,5 +70,6 @@ My journey in security has led me to develop a passion for cybersecurity, and I 
 
 
 ## Projects
+- <a href="https://github.com/OlaleyeAyobami/Active-Directory-Lab/tree/main">Active Directory Lab</a>
 -  <a href="https://github.com/OlaleyeAyobami/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/OlaleyeAyobami/Honey-Pot-Lab">Honey Pot Lab</a>
