@@ -1,7 +1,7 @@
 # Hello, I'm Olaleye Mojeed Ayobami
 <a href="https://linkedin.com/in/olaleye-mojeed-ayobami-b01b1118b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am CompTIA Security+ certified, a Cisco CCNA, and Azure certified. I am currently pursuing a cybersecurity program at the Canadian College of Business and Technology in Vancouver, British Columbia, Canada. My GitHub repository showcases my projects in network security, cloud infrastructure, and more. Explore my journey into cybersecurity, and let's connect!
+I am Cisco CCNA, CompTIA Security+ certified, and Azure certified. I am currently pursuing a cybersecurity program at the Canadian College of Business and Technology in Vancouver, British Columbia, Canada. My GitHub repository showcases my projects in network configuration, network security, and cloud infrastructure. Explore my journey into networking and cybersecurity, and let's connect!
 
 
 
@@ -9,7 +9,7 @@ I am CompTIA Security+ certified, a Cisco CCNA, and Azure certified. I am curren
 
 ## Objective
 
-My journey in security has led me to develop a passion for cybersecurity, and I am now eager to transition into this field. While I'm particularly interested in roles within Security Operations Centers, such as Tier 1 Analyst positions, I'm open to exploring other cybersecurity roles that align with my interests and expertise.
+My journey in IT has led me to develop a passion for networking and cybersecurity, and I am now eager to transition into this field. While I'm particularly interested in roles such as Network Engineer and Network Administrator, I'm open to exploring other networking and cybersecurity roles that align with my interests and expertise.
 
 ## Skills
 
