@@ -1,7 +1,7 @@
 # Hello, I'm Mojeed Olaleye
 <a href="https://www.linkedin.com/in/mojeed-olaleye-b01b1118b/" /></a>
 
-SOC Cybersecurity Analyst passionate about threat detection, phishing investigation, malware analysis, and incident response. Explore my GitHub for hands-on projects and reports showcasing practical skills in network defense, security monitoring, and vulnerability analysis and let's connect!
+SOC Cybersecurity Analyst passionate about threat detection, phishing investigation, malware analysis, and incident response. Explore my GitHub for hands-on projects and reports showcasing practical skills in network defense, security monitoring, and vulnerability analysis - and let's connect!
 
 
 
