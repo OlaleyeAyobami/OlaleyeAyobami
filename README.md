@@ -1,7 +1,7 @@
-# Hello, I'm Olaleye Mojeed Ayobami
-<a href="https://linkedin.com/in/olaleye-mojeed-ayobami-b01b1118b/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Mojeed Olaleye
+<a href="https://www.linkedin.com/in/mojeed-olaleye-b01b1118b/" /></a>
 
-I am Cisco CCNA, CompTIA Security+ certified, and Azure certified. I am currently pursuing a cybersecurity program at the Canadian College of Business and Technology in Vancouver, British Columbia, Canada. My GitHub repository showcases my projects in network configuration, network security, and cloud infrastructure. Explore my journey into networking and cybersecurity, and let's connect!
+SOC Cybersecurity Analyst passionate about threat detection, phishing investigation, malware analysis, and incident response. Explore my GitHub for hands-on projects and reports showcasing practical skills in network defense, security monitoring, and vulnerability analysis and let's connect!
 
 
 
@@ -9,7 +9,7 @@ I am Cisco CCNA, CompTIA Security+ certified, and Azure certified. I am currentl
 
 ## Objective
 
-My journey in IT has led me to develop a passion for networking and cybersecurity, and I am now eager to transition into this field. While I'm particularly interested in roles such as Network Engineer and Network Administrator, I'm open to exploring other networking and cybersecurity roles that align with my interests and expertise.
+To leverage my SOC experience in threat detection, phishing investigation, malware analysis, and incident response, while contributing to a dynamic cybersecurity team. I aim to apply my hands-on skills, demonstrated through projects and reports on GitHub, to protect organizational networks and enhance security operations
 
 ## Skills
 
