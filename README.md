@@ -1,7 +1,8 @@
 # Hello, I'm Mojeed Olaleye
 <a href="https://www.linkedin.com/in/mojeed-olaleye-b01b1118b/" /></a>
 
-SOC Cybersecurity Analyst passionate about threat detection, phishing investigation, malware analysis, and incident response. Explore my GitHub for hands-on projects and reports showcasing practical skills in network defense, security monitoring, and vulnerability analysis - and let's connect!
+I’m a Cybersecurity Analyst working in a Security Operations Center (SOC), passionate about threat detection, phishing investigation, malware analysis, and incident response.
+I am a Certified Ethical Hacker (CEH), CompTIA Security+ certified, Cisco Certified Network Associate (CCNA), and hold the Microsoft Azure Fundamentals (AZ-900) certification. Explore my GitHub to discover hands-on projects and reports that showcase my practical skills in network defense, security monitoring, and vulnerability analysis — and let’s connect!!
 
 
 
