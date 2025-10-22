@@ -101,7 +101,3 @@ To leverage my SOC experience in threat detection, phishing investigation, malwa
 
 
 
-## Projects
-- <a href="https://github.com/OlaleyeAyobami/Active-Directory-Lab/tree/main">Active Directory Lab</a>
--  <a href="https://github.com/OlaleyeAyobami/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>
-- <a href="https://github.com/OlaleyeAyobami/Honey-Pot-Lab">Honey Pot Lab</a>
