@@ -1,7 +1,7 @@
 # Hello, I'm Mojeed Olaleye
 <a href="https://www.linkedin.com/in/mojeed-olaleye-b01b1118b/" /></a>
 
-I’m a Cybersecurity Analyst working in a Security Operations Center (SOC), passionate about threat detection, phishing investigation, malware analysis, and incident response.
+A Cybersecurity Analyst working in a Security Operations Center (SOC), passionate about threat detection, phishing investigation, malware analysis, and incident response.
 I am a Certified Ethical Hacker (CEH), CompTIA Security+ certified, Cisco Certified Network Associate (CCNA), and hold the Microsoft Azure Fundamentals (AZ-900) certification. Explore my GitHub to discover hands-on projects and reports that showcase my practical skills in network defense, security monitoring, and vulnerability analysis — and let’s connect!!
 
 
@@ -12,14 +12,43 @@ I am a Certified Ethical Hacker (CEH), CompTIA Security+ certified, Cisco Certif
 
 To leverage my SOC experience in threat detection, phishing investigation, malware analysis, and incident response, while contributing to a dynamic cybersecurity team. I aim to apply my hands-on skills, demonstrated through projects and reports on GitHub, to protect organizational networks and enhance security operations
 
-## Skills
+## Projects 
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| CIBC Phishing Email and Malware Analysis  | <a href="https://github.com/OlaleyeAyobami/CIBC-Phishing-Email-and-Malware-Anaysis">CIBC Phishing Email and Malware Analysis</a>|
-| Threat Detection and Security Operations with AWS Cloud and ELK-Stack  | <a href="https://github.com/OlaleyeAyobami/Security-Operations-with-AWS-ELK-Stack.">Threat Detection and Security Operations with AWS Cloud and ELK-Stack</a>|
-| Malware Analysis | <a href="https://github.com/OlaleyeAyobami/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>|
-| Honeypot Deployment & Analysis | <a href="https://github.com/OlaleyeAyobami/Honey-Pot-Lab">Honey Pot Lab</a> |
+<a href="https://github.com/OlaleyeAyobami/CIBC-Phishing-Email-and-Malware-Anaysis">CIBC Phishing Email and Malware Analysis</a>
+
+
+<a href="https://github.com/OlaleyeAyobami/Security-Operations-with-AWS-ELK-Stack.">Threat Detection and Security Operations with AWS Cloud and ELK-Stack</a>
+
+
+<a href="https://github.com/OlaleyeAyobami/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>
+
+
+<a href="https://github.com/OlaleyeAyobami/Honey-Pot-Lab">Honey Pot Lab</a> 
+
+## Skills
+## Blue Team Skills (Defensive / SOC / Incident Response)
+
+1. SIEM Monitoring & Log Analysis – Proficiency with tools like Splunk, ELK Stack, or QRadar to detect anomalies and threats.
+
+2. Incident Response & Forensics – Investigating alerts, performing triage, and analyzing artifacts to contain and remediate incidents.
+
+3. Network Traffic Analysis – Using tools like Wireshark, Zeek/Bro, or IDS/IPS systems to monitor network traffic for suspicious activity.
+
+4. Vulnerability Management & Patch Management – Identifying and remediating vulnerabilities using Nessus, OpenVAS, or Qualys.
+
+5. Endpoint Security & Hardening – Configuring antivirus, EDR solutions (e.g., CrowdStrike, SentinelOne), and applying system hardening best practices.
+
+## Red Team Skills (Offensive / Pentesting / Ethical Hacking)
+
+6. Penetration Testing & Exploitation – Performing simulated attacks on systems using tools like Metasploit, Nmap, or Burp Suite.
+
+7. Social Engineering & Phishing – Crafting realistic phishing campaigns and using psychological tactics to test human vulnerabilities.
+
+8. Web Application Security Testing – Identifying vulnerabilities like SQLi, XSS, CSRF using tools such as OWASP ZAP or Burp Suite.
+
+9. Malware Analysis & Reverse Engineering – Analyzing malicious binaries and scripts to understand behavior and develop mitigation.
+
+10. Red Team Operations & C2 Frameworks – Using frameworks like Cobalt Strike, Empire, or Metasploit to simulate advanced persistent threats in controlled environments.
 
 
 ## Tools
