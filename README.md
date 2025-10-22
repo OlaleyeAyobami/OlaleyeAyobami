@@ -17,7 +17,6 @@ To leverage my SOC experience in threat detection, phishing investigation, malwa
 |-----------------------------------------------|----------------------------|
 | CIBC Phishing Email and Malware Analysis  | <a href="https://github.com/OlaleyeAyobami/CIBC-Phishing-Email-and-Malware-Anaysis">CIBC Phishing Email and Malware Analysis</a>|
 | Threat Detection and Security Operations with AWS Cloud and ELK-Stack  | <a href="https://github.com/OlaleyeAyobami/Security-Operations-with-AWS-ELK-Stack.">Threat Detection and Security Operations with AWS Cloud and ELK-Stack</a>|
-| Active Directory  | <a href="https://github.com/OlaleyeAyobami/Active-Directory-Lab/tree/main">Active Directory Lab</a>|
 | Malware Analysis | <a href="https://github.com/OlaleyeAyobami/Malware-Analysis-Lab/tree/main">Malware Analysis Lab</a>|
 | Honeypot Deployment & Analysis | <a href="https://github.com/OlaleyeAyobami/Honey-Pot-Lab">Honey Pot Lab</a> |
 
