@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/mojeed-olaleye-b01b1118b/" /></a>
 
 A Cybersecurity Analyst working in a Security Operations Center (SOC), passionate about threat detection, phishing investigation, malware analysis, and incident response.
-I am a Certified Ethical Hacker (CEH), CompTIA Security+ certified, Cisco Certified Network Associate (CCNA), and hold the Microsoft Azure Fundamentals (AZ-900) certification. Explore my GitHub to discover hands-on projects and reports that showcase my practical skills in network defense, security monitoring, and vulnerability analysis — and let’s connect!!
+I am a Certified Ethical Hacker (CEH), CompTIA Security+ certified, Cisco Certified Network Associate (CCNA), and hold the Microsoft Azure Cloud Fundamentals (AZ-900) certification. I also have a Diploma in Cybersecurity and Risk Management from Vancouver, British Columbia, Canada. Explore my GitHub to discover hands-on projects and reports that showcase my practical skills in network defense, security monitoring, and vulnerability analysis — and let’s connect!!
 
 
 
